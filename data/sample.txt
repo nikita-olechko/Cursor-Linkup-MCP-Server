@@ -1,0 +1,17 @@
+This is a sample document for testing the RAG (Retrieval-Augmented Generation) system.
+
+The system should be able to:
+1. Load this document
+2. Index its contents
+3. Use it for answering questions
+
+This document contains information about artificial intelligence and machine learning.
+Neural networks are a type of machine learning model inspired by the human brain.
+They consist of layers of interconnected nodes that process and transform data.
+
+Deep learning is a subset of machine learning that uses multiple layers of neural networks.
+It has been particularly successful in tasks like:
+- Image recognition
+- Natural language processing
+- Speech recognition
+- Game playing 
